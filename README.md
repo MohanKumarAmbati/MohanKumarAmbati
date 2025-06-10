@@ -5,7 +5,7 @@
 <h3 align="center">Part time coder and full time problem solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohankumarambati&label=Profile%20views&color=dc8add&style=flat" alt="mohankumarambati" /> &nbsp;&nbsp;
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://1drv.ms/w/c/487a03effca9404c/EXtYD5HxklRBvc-_XZ4RktoBAls1-smQsNajYBNDIDCDsg?e=5sRZZU" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=flat&logo=read-the-docs" alt="Resume" />
   </a></p>
 
