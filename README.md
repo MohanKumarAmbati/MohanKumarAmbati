@@ -4,7 +4,10 @@
 <h1 align="center">Hi 👋, I'm Mohan Kumar</h1>
 <h3 align="center">Part time coder and full time problem solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohankumarambati&label=Profile%20views&color=dc8add&style=flat" alt="mohankumarambati" /> </p> <p>[Download My Resume](https://example.com/my_resume.pdf "My Resume")</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohankumarambati&label=Profile%20views&color=dc8add&style=flat" alt="mohankumarambati" /> &nbsp;&nbsp;
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=flat&logo=read-the-docs" alt="Resume" />
+  </a></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohankumarambati" alt="mohankumarambati" /></a> </p>
 
