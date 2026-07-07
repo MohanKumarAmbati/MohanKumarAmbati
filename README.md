@@ -1,9 +1,10 @@
 [![An image of @mohankumarambati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohankumarambati)](https://holopin.io/@mohankumarambati)
 
 
-<h1 align="center">Hi 👋, I'm Mohan Kumar</h1>[![Angular Mid-Level Certificate](https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a2315fba-dfef-4a3d-910d-48ef923c5bfe)
+<h1 align="center">Hi 👋, I'm Mohan Kumar</h1> 
 <h3 align="center">Part time coder and full time problem solver</h3>
 
+<a href="https://certificates.dev/angular/certificates/a2315fba-dfef-4a3d-910d-48ef923c5bfe"><img src="https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white&amp;labelColor=7B1A1A" alt="Angular Mid-Level Certificate"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohankumarambati&label=Profile%20views&color=dc8add&style=flat" alt="mohankumarambati" /> &nbsp;&nbsp;
   <a href="https://1drv.ms/w/c/487a03effca9404c/EXtYD5HxklRBvc-_XZ4RktoBAls1-smQsNajYBNDIDCDsg?e=5sRZZU" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=flat&logo=read-the-docs" alt="Resume" />
